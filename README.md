@@ -1,4 +1,6 @@
-# BetterVehicleWindChill
+![BetterVehicleWindChill Workshop Image](.github/readme/workshop.jpg)
+
+# Better Vehicle Wind Chill
 
 Server-side DayZ mod that makes the 1.30 boat and motorbike wind chill configurable, and milder by default.
 
